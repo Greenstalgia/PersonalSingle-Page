@@ -1,5 +1,8 @@
 # Personal Single-Page CV
 
+Project instructions: https://roadmap.sh/projects/single-page-cv
+
+## Live Demo
 https://greenstalgia.github.io/PersonalSingle-Page/
 
 ## Description
