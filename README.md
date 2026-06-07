@@ -5,6 +5,7 @@ Educational project from roadmap.sh focused on practicing semantic HTML.
 
 ## Live Demo
 [View my CV here](https://greenstalgia.github.io/PersonalSingle-Page/)
+Project URL: https://greenstalgia.github.io/PersonalSingle-Page/
 
 ## Technologies Used
 - HTML5
